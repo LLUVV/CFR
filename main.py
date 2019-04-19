@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import math
 import numpy
 
+# Practice Counterfactual Regret Minimization - Colonel Blotto
+
 S = 5
 N = 3
 numChoice = int(math.factorial(S+N-1) / math.factorial(S) / math.factorial(N-1))
